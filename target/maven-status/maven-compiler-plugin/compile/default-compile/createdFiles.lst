@@ -1,0 +1,6 @@
+conexion\ConexionDB.class
+modelo\Libros.class
+modelo\TipoLibro.class
+controlador\LibreriaServlet.class
+controlador\OperacionServlet.class
+registrosDAO\RegistroDAO.class

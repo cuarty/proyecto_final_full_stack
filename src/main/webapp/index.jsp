@@ -49,7 +49,7 @@
             </form>
 
             <!--Tabla para mostrar contactos existentes con las opciones de Modificar, Guardar o Eliminar-->
-            <table class="table">
+            <table class="table" id="tabla_agregar_libro">
                 <thead>
                     <tr class="table-dark">
                         <th scope="col">Título</th>
@@ -98,11 +98,11 @@
             </table>
         </div> 
 
+        <section id="buscador">
+            <div style="margin-top: 100px">
+                <h2 class="container mt-3" style="text-align: center; font-weight: bold; color: #353a40">"Buscador"</h2>
+            </div>
 
-        <div style="margin-top: 100px">
-            <h2 class="container mt-3" style="text-align: center; font-weight: bold; color: #353a40">"Buscador"</h2>
-        </div>
-        <section > 
             <div class="container mt-3">            
                 <!--Creamos el formulario;-->   
 

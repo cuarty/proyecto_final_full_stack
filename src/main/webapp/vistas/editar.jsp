@@ -34,7 +34,7 @@
 
                 <div class="form-group">
                     <label>Autor:</label>
-                    <input type="text" class="form-control" name="apellido" value="<%= ((Libros) request.getAttribute("libro")).getAutor()%>">
+                    <input type="text" class="form-control" name="autor" value="<%= ((Libros) request.getAttribute("libro")).getAutor()%>">
                 </div>
 
                 <div class="form-group">
